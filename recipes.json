@@ -1,0 +1,44 @@
+{
+    "recipes" : [
+        {
+            "id": 1,
+            "name": "Avacado Chicken Salad",
+            "ingredients": ["avacodo", "cilantro", "salt"]
+        },
+        {
+            "id": 2,
+            "name": "Chili",
+            "ingredients": ["chili", "cheese", "sour cream"]
+        },
+        {
+            "id": 3,
+            "name": "Apple Juice Chicken",
+            "ingredients": ["apple juice", "chicken", "salt", "bbq sauce"]
+        },
+        {
+            "id": 4,
+            "name": "Grapefuit Salad",
+            "ingredients": ["grapefruit", "lettuce", "tomatoes"]
+        },
+        {
+            "id": 5,
+            "name": "Garlic Biscuits",
+            "ingredients": ["dough", "garlic", "cheese"]
+        },
+        {
+            "id": 6,
+            "name": "Spaghetti",
+            "ingredients": ["noodles", "sauce", "garlic"]
+        },
+        {
+            "id": 7,
+            "name": "Egg Sandwhich",
+            "ingredients": ["bread", "eggs", "butter"]
+        },
+        {
+            "id": 8,
+            "name": "Chicken Noodle Soup",
+            "ingredients": ["chicken", "chicken broth", "noodles"]
+        }       
+    ]
+}
